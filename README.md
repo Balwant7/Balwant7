@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balwant7
+- 👋 Hi, I’m Balwant
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate

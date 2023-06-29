@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Balwant
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me singhbalwant168@gmail.com
 
